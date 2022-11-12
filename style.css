@@ -1,0 +1,24 @@
+*{
+  background-color:brown;
+  }
+ h1{
+   background-color:pink;
+   text-align:center;
+   font-size:60px;
+   color:blue;
+   font-family:verdana;
+   font-weight:20;
+   }
+ p{
+   background-color:pink;
+   font-size:25px;
+   color:blue;
+   font-style:italic;
+    }
+p span{
+   background-color:pink;
+   font-size:30px;
+   color:purple;
+}	
+	
+	
